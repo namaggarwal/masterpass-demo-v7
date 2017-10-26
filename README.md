@@ -1,4 +1,4 @@
-# masterpass-demo
+# masterpass-demo-v7
 A sample app to show Mastercard's masterpass APIs
 
 Edit application.properties file to put your keys and callbackUrl
